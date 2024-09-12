@@ -1,0 +1,10 @@
+distribucion=Empirica
+n=10
+p=0.5
+valor_minimo_pedir=3
+valor_maximo_pedir=3
+valor_minimo_reorden=0
+valor_maximo_reorden=0
+costo_orden=300
+costo_mantenimiento=3
+costo_faltante=8
